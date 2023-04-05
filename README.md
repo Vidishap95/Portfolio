@@ -1,4 +1,4 @@
 # Portfolio
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+AS an employee
+I WANT to showcase a potential deployed portfolio of work samples
+SO THAT I can get attention of employer on my work so that I cab be the good fit for an open position.
